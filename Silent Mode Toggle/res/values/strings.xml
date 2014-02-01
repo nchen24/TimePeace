@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Silent Mode Toggle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Silent Mode Toggle</string>
+    <string name="silent_off">Activate Normal Mode</string>
+    <string name="silent_on">Activate Silent Mode</string>
+    <string name="text">Phone Is In Silent Mode</string>
+    
+
+</resources>
